@@ -1,0 +1,28 @@
+<span><!--more--></span>
+
+
+
+<div id="custom-hero" style="clear: both;"><img alt="" border="0" data-original-height="630" data-original-width="1200" src="https://image.jpg"/></div>
+
+<p id="synopsis">The protagonist fell asleep while playing an online game. However, he awoke in a strange world with his game character’s appearance. In a state of shock, he noticed that he was equipped with nothing but his strongest weapon and armor. To make matters worse, our hero’s appearance was changed by the special avatar skin 『Skeleton』 when he enter this new world. The protagonist wanted to live without drawing attention, but he got acquainted with the dark elf Ariana and received her request.</p>
+
+
+
+<div id='extra-info'>
+  <div class="y6x11p">Chapter <span class="dt">40</span></div>
+  <div class="y6x11p">Release <span class="dt">Feb 10, 2017</span></div>
+  <div class="y6x11p">Serialization <span class="dt">Comic Gardo</span></div>
+  <div class="y6x11p">Author <span class="dt"> Hakari, Enki (Story)</span></div>
+
+</div>
+
+<input type="text" id="scInput" onkeyup="searchList()" placeholder="Search for names.." title="Type in a name">
+
+<!-- 
+* If label has space, add %20 to space
+* Keep your label short
+* Don't use special character for labeling {' , " ! - : }
+-->
+<ul id="myUL">
+  <script src="/feeds/posts/default/-/Your%20Label?orderby=published&amp;alt=json-in-script&amp;callback=chapterlist&amp;max-results=999"></script>
+</ul>
