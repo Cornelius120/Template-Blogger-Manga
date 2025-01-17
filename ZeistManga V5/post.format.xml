@@ -1,24 +1,26 @@
-<span><!--more--></span>
-<div class="separator" style="clear: both;"><a href="mmmm" style="display: block; padding: 1em 0; text-align: center; "><img alt="" border="0" height="200" data-original-height="2560" data-original-width="1800" src="mmm"/></a></div>
-
-
-<div id="custom-hero" style="clear: both;"><img alt="" border="0" data-original-height="630" data-original-width="1200" src="mmm"/></div>
-
-<p id="synopsis">mmm</p>
-
-
-
-<div id='extra-info'>
-  <div class="y6x11p">Publication <span class="dt">2021</span></div>
-  <div class="y6x11p">Author <span class="dt">Meikyou Shisui</span></div>
-  <div class="y6x11p">Artist <span class="dt">Oomae Takafumi</span></div>
+<div id="synopsis">
+<p>mmm</p>
 
 </div>
 
-<input type="text" id="scInput" onkeyup="searchList()" placeholder="Search for names.." title="Type in a name">
+<span><a name="more"></a></span>
 
-<div id="clwd" class="bixbox bxcl epcheck">
+<div class="separator" style="clear: both;"><a href="mmmm" style="display: block; padding: 1em 0px; text-align: center;"><img alt="" border="0" data-original-height="2048" data-original-width="1440" height="200" src="mmmm" /></a></div>
+
+
+
+<div id="extra-info">
+  <div class="y6x11p">Chapter <span class="dt">1 - ?</span></div>
+  <div class="y6x11p">Publication <span class="dt">2021</span></div>
+  <div class="y6x11p">Author <span class="dt">Shigeru Sagasaki</span></div>
+  <div class="y6x11p">Artist <span class="dt">Kazuki Satou</span></div>
+
+</div>
+
+<input id="scInput" onkeyup="searchList()" title="Type in a name" type="text" />
+
+<div class="bixbox bxcl epcheck" id="clwd">
   <script>
-    clwd.run('mmm');
+    clwd.run('mmmm');
   </script>
 </div>
