@@ -1,0 +1,18 @@
+<span><!--more--></span>
+
+
+<div id="Chapter-lists">
+  <select class="gallerydownloadbutton flex aic jcc bg-main rgba-06" id="server_select">
+    <option value="">Download Server</option>
+    <option value="https://drive.google.com">Google Drive</option>
+    <option value="https://www.mediafire.com">Mediafire</option>
+    <option value="https://files.cx">Files.cx</option>
+    <option value="https://acefile.co">Acefile</option>
+  </select>
+
+  <a href="#" class='gallerydownloadbutton flex aic jcc c-333'>
+    <svg aria-hidden='true' height='1em' preserveAspectRatio='xMidYMid meet' role='img' viewBox='0 0 24 24' width='1em' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink'><path d='M12 2C6.486 2 2 6.486 2 12s4.486 10 10 10s10-4.486 10-10S17.514 2 12 2zm0 15l-5-5h4V7h2v5h4l-5 5z' fill='currentColor'/></svg> 
+    <span>Download</span>
+  </a>
+  
+</div>
